@@ -1,0 +1,1 @@
+# Chat Alzahrani - A platform connecting Saudi students with business owners. Features include real-time messaging, user authentication, business profiles, and job opportunities. Built with React.js, Node.js, Express, and MongoDB.
